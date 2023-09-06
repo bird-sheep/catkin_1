@@ -1,0 +1,2 @@
+atr_pkg:beginner_tutorials:imu_pkg:lidar_pkg:map_pkg:multyply_pkg:qq_msgs:ros_service_examples:slam_pkg:ssr_pkg:wpr_simulation-master
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=/home/px/code/catkin_1/devel -DCMAKE_INSTALL_PREFIX=/home/px/code/catkin_1/install -G Unix Makefiles

@@ -1,0 +1,14 @@
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_px__46217: http://px:46217/
+rosversion: '1.16.0
+
+  '
+run_id: 1655c374-3ff0-11ee-9973-d172f8b4190a
+turtlesim:
+  background_b: 255
+  background_g: 255
+  background_r: 255

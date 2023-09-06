@@ -1,0 +1,9 @@
+<launch>
+
+    <node pkg="multyply_pkg" type="server" name="server" />
+    <node pkg="multyply_pkg" type="client" name="client">
+    <param name="arg1" value="1.5" />
+    <param name="arg2" value="2" />
+    </node>
+
+</launch>
